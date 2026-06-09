@@ -2,6 +2,5 @@
 pandas
 numpy
 sqlalchemy
-psycopg
 psycopg2-binary
 python-dotenv
