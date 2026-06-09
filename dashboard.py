@@ -1,5 +1,5 @@
 import streamlit as st
-import psycopg
+import psycopg2
 import pandas as pd
 import plotly.express as px
 from datetime import date, timedelta
