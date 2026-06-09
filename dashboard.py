@@ -269,7 +269,7 @@ tab1, tab2, tab3 = st.tabs(
     [
         "📈 Tren Harga",
         "📊 Perbandingan",
-        "🗂 Data Mentah",
+        "🗂 Data Tabular",
     ]
 )
 
