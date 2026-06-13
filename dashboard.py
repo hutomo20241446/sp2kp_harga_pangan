@@ -178,7 +178,7 @@ Fokus pada temuan utama, angka penting, dan kesimpulan yang actionable."""
 # =========================================================
 
 st.title("🛒 Dashboard Harga Pangan")
-st.caption("Jawa Tengah · Data Bank Indonesia")
+st.caption("Jawa Tengah · Data SP2KP Kementerian Perdagangan Republik Indonesia")
 st.divider()
 
 # =========================================================
